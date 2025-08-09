@@ -9,15 +9,14 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Naveed] - [CET]
+- Member 1: [Deep] - [CET]
 
 ### Project Description
-[2-3 lines about what your project does]
+Snail Horoscopy
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Snails dont need horoscopy
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -25,15 +24,11 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+React
+OpenCV
+Flask
+Python
+N8N
 
 ### Implementation
 For Software:
