@@ -51,26 +51,28 @@ export default function App() {
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
-        className="text-4xl font-bold mb-10 -mt-20"
+        className="text-4xl font-bold mb-10"
       >
-        🐌 Snail Horoscope Oracle
+      <img src='/snailfort.png' className='' width={350}></img>
       </motion.h1>
 
       <input
         type="file"
         accept="image/*"
         onChange={(e) => setSelectedImage(e.target.files[0])}
-        className="mb-4 w-60 bg-white text-black rounded p-2"
+        className="w-60 z-50 bg-white text-black rounded mb-10 p-2"
       />
 
       <img
         src="/snailanim.gif"
         alt="Mystical Snail"
-        className="mr-[500px] mb-6"
-        width={600}
+        className="mr-[600px] -mt-20  mb-10"
+        width={700}
       />
 
       <GenerateButton onClick={generateHoroscope} loading={loading} />
+
+      <img src='/leaf-export.png' className='absolute mt-35 right-[150px] z-0' width={700}></img>
 
       <HoroscopeText text={horoscope} />
     </div>

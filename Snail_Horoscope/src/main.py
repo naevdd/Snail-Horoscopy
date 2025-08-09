@@ -23,10 +23,10 @@ def get_horoscope():
 
     import requests, os
     n8n_res = requests.post(
-        "https://mwkaneki.app.n8n.cloud/webhook/d15fdb73-b762-478e-b513-694c98d60339",
+        "https://mwkaneki.app.n8n.cloud/webhook-test/d15fdb73-b762-478e-b513-694c98d60339",
         json={
             "contents": [{
-                "parts": [{"text": f"The snail spiral deviation is {deviation:.2f}%. Generate a fun mystical horoscope based on this limited to 30 words."}]
+                "parts": [{"text": f"The snail spiral deviation is {deviation:.2f}%."}]
             }]
         }
     )
