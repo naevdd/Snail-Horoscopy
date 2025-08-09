@@ -1,4 +1,5 @@
-import { useState, ChangeEvent } from 'react';
+import { useState } from 'react';
+import type { ChangeEvent } from 'react';
 import { motion } from 'framer-motion';
 import HoroscopeText from './components/HoroscopeText';
 import GenerateButton from './components/GenerateButton';
