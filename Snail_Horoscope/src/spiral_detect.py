@@ -16,4 +16,4 @@ def detect_spiral_ratio(edges):
     a,b=params
     phi=(1+ np.sqrt(5)) / 2
     golden_b=np.log(phi) / (np.pi/2)
-    return b, golden_b, abs(a - golden_b)
+    return b, golden_b, abs(b - golden_b)
