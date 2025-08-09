@@ -1,4 +1,9 @@
-export default function GenerateButton({ onClick, loading }) {
+interface GenerateButtonProps {
+  onClick: () => void;
+  loading: boolean;
+}
+
+export default function GenerateButton({ onClick, loading }: GenerateButtonProps) {
   return (
     <button
       onClick={onClick}

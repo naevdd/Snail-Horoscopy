@@ -1,6 +1,10 @@
 import { motion } from 'framer-motion';
 
-export default function HoroscopeText({ text }) {
+interface HoroscopeTextProps {
+  text: string;
+}
+
+export default function HoroscopeText({ text }: HoroscopeTextProps) {
   if (!text) return null;
   return (
     <motion.div 
