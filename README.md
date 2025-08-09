@@ -1,11 +1,14 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# SNAIL FORTUNE 🎯
 
+# DEMO
+<img width="843" alt="image" src="../Useless Project 2.0/Snail_Horoscope/data/snail-demo.gif" />
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TS PMO
+hosted link - https://snail-horoscopy.vercel.app/
 
 
 ### Team Members
@@ -42,8 +45,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="843" height="687" alt="image" src="https://github.com/user-attachments/assets/b231785e-6f8f-488b-bafa-5fc48182446d" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -52,40 +54,14 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+<img width="1177" height="719" alt="image" src="https://github.com/user-attachments/assets/e4e2522a-9107-43dc-a051-3c972fd81b40" />
+
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
