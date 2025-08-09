@@ -28,7 +28,7 @@ export default function App() {
     const formData = new FormData();
     formData.append("image", selectedImage);
 
-    const res = await fetch('http://127.0.0.1:5000/api/horoscope', {
+    const res = await fetch('https://snail-horoscopy.onrender.com/api/horoscope', {
       method: 'POST',
       body: formData
     });
